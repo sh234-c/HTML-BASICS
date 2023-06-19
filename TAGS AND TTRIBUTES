@@ -1,0 +1,24 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Browser</title>
+</head>
+
+<body>
+    <h1>books to read
+
+    </h1>
+    <p>there are lots of boks to read
+    </p>
+    <a href="https://codewithharry.com">click here to go to harry website</a>
+    <script src="script.js"></script>
+</body>
+
+</html>

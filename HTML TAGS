@@ -1,0 +1,19 @@
+</head>
+
+<body>
+  <h1>this is heading</h1>
+  <h2>this is heading</h2>
+  <h3>this is heading</h3>
+  <h4>this is heading</h4>
+  <h5>this is heading</h5>
+  <h6>this is heading</h6>
+  <p>this is paragraph</p><hr>
+  <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80" alt=""><hr>
+  <b>this is bold</b>
+  <br>
+  <i>this is italian</i><br>
+  <u>this is underline</u><hr>
+  <big>this is big</big><br>
+  <small>this is small</small><hr>
+  <p>co<sub>2</sub></p><hr>
+  <p>ax<sup>2</sup>+bx+c</p>

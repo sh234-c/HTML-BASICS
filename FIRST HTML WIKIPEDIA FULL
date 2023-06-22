@@ -1,0 +1,24 @@
+</head>
+
+<body>
+  <h1>HTML-WIKIPEDIA</h1><hr>
+  <h2>article on html origin,inventor and many more</h2><hr>
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt=""><br>
+  <b>above image represent html logo</b><hr>
+  <p>HTML ORIGIN:1993</P><br>
+<p>HTML INVENTOR:Tim Berners-Lee</p><br>
+<img src="https://www.w3.org/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg" alt=""><br>
+<h3>HISTORY OF HTML</h3>
+<pre>1991- Tim Berners-Lee invents HTML 1.0
+1993- HTML 1.0 is released. Not many developers are creating websites at this time.
+1995- HTML 2.0 is published. This contains the features of HTML 1.0 plus new features. This remained the standard markup language for designing and creating websites until 1997.
+1997- HTML 3.0 was invented. Here, Dave Raggett introduced a fresh draft on HTML, which improved new features of HTML and gave more powerful characteristics for webmasters in designing websites. Unfortunately, the powerful features slowed down the browser in applying further improvements.
+1999- The widely-used HTML 4.0 comes out. It is very successful.
+2014- HTML 5.0 is released and used worldwide. It is said to be the extended version of HTML 4.01 which was published in 2012.</pre><hr>
+<u>HTML MARKUP</u>
+<p>HTML markup consists of several key components, including those called tags (and their attributes), character-based data types, character references and entity references. HTML tags most commonly come in pairs like   although some represent empty elements and so are unpaired, for example . The first tag in such a pair is the start tag, and the second is the end tag (they are also called opening tags and closing tags).</p>
+<h4>HTML ELEMENT</h4>
+<p>The HTML  tag is used to embed an image in a web page. Images are not technically inserted into a web page; images are linked to web pages. The tag creates a holding space for the referenced image. The  tag is empty, it contains attributes only, and does not have a closing tag.</p><br>
+<u>HTML DEVELOPMENT</u>
+<p>HTML is a markup language that web browsers use to interpret and compose text, images, and other material into visible or audible web pages. Default characteristics for every item of HTML markup are defined in the browser, and these characteristics can be altered or enhanced by the web page designer's additional use of CSS. Many of the text elements are mentioned in the 1988 ISO technical report TR 9537 Techniques for using SGML, which describes the features of early text formatting languages such as that used by the RUNOFF command developed in the early 1960s for the CTSS (Compatible Time-Sharing System) operating system. These formatting commands were derived from the commands used by typesetters to manually format documents. However, the SGML concept of generalized markup is based on elements (nested annotated ranges with attributes) rather than merely print effects, with separate structure and markup. HTML has been progressively moved in this direction with CSS.</p><hr>
+<b>this is something all about html</b><hr>
